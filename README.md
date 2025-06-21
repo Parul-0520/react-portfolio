@@ -3,7 +3,7 @@
 My portfolio.
 
 ### Live Link
-https://parul-0520.github.io/react-portfolio/
+[https://parul-0520.github.io/react-portfolio/](https://parul-0520.github.io/react-portfolio/)
 
 
 ### Features
